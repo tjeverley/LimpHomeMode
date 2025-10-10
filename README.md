@@ -3,6 +3,7 @@ Game/project files for Limp Home Mode, a top-down resource management sim on a d
 spaceship.
 
 **Install**
+
 To run the game, download the files in this folder. Once downloaded, run the file titled 
 "Limp Home Mode.exe" to start the game.
 
